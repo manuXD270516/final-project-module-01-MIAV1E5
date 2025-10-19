@@ -959,7 +959,7 @@ Este proyecto fue desarrollado como parte del **Módulo 01 - Proyecto Final**.
 |--------|-----|
 | **Erick Ariel Coca Mariaca** | Desarrollador |
 | **Cristhian Labrandero Perez** | Desarrollador |
-| **Josue Llanos** | Desarrollador |
+| **Josue Choque Llanos** | Desarrollador |
 | **Manuel Joaquin Saavedra Severiche** | Desarrollador |
 
 ### Contribuciones
