@@ -913,7 +913,7 @@ Para ver una demostración completa del funcionamiento del sistema, incluyendo:
 
 **Accede al video en Google Drive**:
 
-📹 **[AGREGAR AQUÍ EL ENLACE AL VIDEO DE GOOGLE DRIVE]**
+📹 **https://1drv.ms/f/c/fc5cbdc14bdcf26d/EmDYF9JXk0hBnxF2NIfPvoEBLmqwAYf7otstLpAllocbaA?e=85WDEO**
 
 > **Nota para el equipo**: Por favor, subir el video demo a Google Drive, configurarlo como "Cualquier persona con el enlace puede ver" y agregar el enlace arriba.
 
@@ -939,15 +939,16 @@ Para ver una demostración completa del funcionamiento del sistema, incluyendo:
    - Modificar metadatos (UPDATE)
    - Eliminar registro (DELETE)
 
-5. **Caso de Uso Práctico** (8:00 - 10:00)
-   - Escenario médico real
-   - Flujo completo de trabajo
-
-6. **Cierre** (10:00 - 10:30)
-   - Resumen de funcionalidades
-   - Conclusiones del equipo
+5. **Cierre** (8:00 - 16:30)
+   - Resumen de funcionalidades codigo
+   - Explicacion de diagrama de clases
 
 ---
+
+
+## Buenas Practicas Utilizadas PEP8
+- PEP8 es la guía de estilo para escribir código en Python de forma clara y uniforme. Define reglas sobre la indentación, nombres de variables y organización del código. Por ejemplo, recomienda usar cuatro espacios para indentar y nombres en minúsculas con guiones bajos, como mi_variable. En mi proyecto apliqué PEP8 al nombrar funciones y variables correctamente y al mantener una estructura limpia, lo que facilitó la lectura y comprensión del código.
+
 
 ## 👥 Equipo de Desarrollo
 
@@ -971,7 +972,8 @@ Este proyecto demuestra la aplicación de:
 - ✅ Desarrollo de sistemas CRUD
 - ✅ Manejo de datasets médicos
 - ✅ Documentación profesional
-- ✅ Buenas prácticas de programación
+- ✅ Buenas prácticas de programación PEP8
+  
 
 ### Agradecimientos
 
